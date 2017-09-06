@@ -7,3 +7,4 @@ C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\PartyPlanner\PartyPlann
 C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.csproj.GenerateResource.Cache
 C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.exe
 C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.pdb
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\PartyPlanner\PartyPlanner\obj\Debug\PartyPlanner.csproj.CoreCompileInputs.cache
