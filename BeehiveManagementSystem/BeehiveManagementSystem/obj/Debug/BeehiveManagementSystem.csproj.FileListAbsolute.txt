@@ -1,0 +1,10 @@
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe.config
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.pdb
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.Form1.resources
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.Properties.Resources.resources
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.GenerateResource.Cache
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.exe
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.pdb

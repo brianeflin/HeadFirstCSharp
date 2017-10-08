@@ -1,0 +1,10 @@
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\bin\Debug\SubclassConstructor.exe.config
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\bin\Debug\SubclassConstructor.exe
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\bin\Debug\SubclassConstructor.pdb
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\obj\Debug\SubclassConstructor.csprojResolveAssemblyReference.cache
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\obj\Debug\SubclassConstructor.Form1.resources
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\obj\Debug\SubclassConstructor.Properties.Resources.resources
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\obj\Debug\SubclassConstructor.csproj.GenerateResource.Cache
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\obj\Debug\SubclassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\obj\Debug\SubclassConstructor.exe
+C:\Users\brian\Projects\VisualStudio2017\HeadFirstCSharp\SubclassConstructor\SubclassConstructor\obj\Debug\SubclassConstructor.pdb
