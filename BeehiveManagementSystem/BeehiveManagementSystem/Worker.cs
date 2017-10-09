@@ -1,7 +1,7 @@
 ﻿
 namespace BeehiveManagementSystem
 {
-    class Worker
+    class Worker : Bee
     {
         private string currentJob = "";
         public string CurrentJob
@@ -23,8 +23,10 @@ namespace BeehiveManagementSystem
         private string[] jobsICanDo;
         private int shiftsToWork;
         private int shiftsWorked;
+        const double honeyUnitsPerShiftWorked = .65;
 
-        public Worker(string[] jobs)
+        public Worker(double weightInMg, string[] jobs)
+            : base(weightInMg)
         {
             jobsICanDo = jobs;
         }
@@ -62,6 +64,11 @@ namespace BeehiveManagementSystem
             }
 
             return false;
+        }
+
+        public override double HoneyConsumptionRate()
+        {
+            return base.HoneyConsumptionRate() + (shiftsWorked * honeyUnitsPerShiftWorked);
         }
     }
 }
